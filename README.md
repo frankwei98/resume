@@ -4,17 +4,15 @@
 
 👨 My name is Haihui Wei (A.K.A Frank Wei).
 
-💼 I am now working remotely as fullstack engineer for [Meta Network](https://github.com/meta-network) / [Matataki-io](https://github.com/matataki-io), building for a decentralized future.
+🏠 I am now currently living in Guangzhou, China. 
 
-🏠 I am now currently living in GuangZhou, China. 
-
-🤔 I considered myself to be fullstack engineer since I can write Frontend / Backend / Smart Contracts.
+🤔 I considered myself to be frontend engineer since I mostly code in Typescript / Javascript, but I can code in Java / C# as well.
 
 📧 Email me at `yds3tj36l#relay.firefox.com` (replace `#` with '@')
 
 ## My Requirement for jobs
 
-* prefer to working opportunity within the Great Bay Area (e.g. Guangzhou / Shenzhen / Hong Kong / Zhuhai / Foshan / Dongguan) or overseas.
-* 🚫 996 work schedule is NOT accepted
+* prefer to working opportunity within the East Asia (Tokyo, Seoul, Shanghai, Shenzhen, Hongkong, Singapore)
+* Work life balance
 * (...more to add)
 
